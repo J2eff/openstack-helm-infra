@@ -13,6 +13,6 @@
 ---
 dependencies:
   - name: helm-toolkit
-    repository: registry.home-infra.jeff/charts/helm-toolkit
+    repository: oci://registry.home-infra.jeff/charts/helm-toolkit
     version: ">= 0.1.0"
 ...
